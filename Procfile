@@ -1,1 +1,0 @@
-web: uvicorn dealio_api_pg:app –host 0.0.0.0 –port $PORT
